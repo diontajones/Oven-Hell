@@ -1,0 +1,13 @@
+{
+  "base_url": "/",
+  "hostname": "0.0.0.0",
+  "password": false,
+  "pid": 18,
+  "port": 8888,
+  "root_dir": "/home/jovyan",
+  "secure": false,
+  "sock": "",
+  "token": "5f81f7f76f9022c5331c4e2358b34ae9eb5b77f160a9738e",
+  "url": "http://spark:8888/",
+  "version": "2.7.0"
+}
